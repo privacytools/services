@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Website issues
+  - name: Report a website issue
     url: https://github.com/privacytoolsIO/privacytools.io/issues/new?labels=%F0%9F%8C%90+website+issue&template=5_Website_Issues.md&title=%F0%9F%8C%90+Website+Issue+%7C+
-    about: Bug reports related to www.privacytools.io.
-  - name: Discussions, questions, etc.
+    about: Any bug reports related to www.privacytools.io
+  - name: Other discussions, questions, etc.
     url: https://forum.privacytools.io/c/community/11
-    about: General discussions should take place in the "Community" section of our forum.
+    about: General discussions should take place in the "Community" section of our forum

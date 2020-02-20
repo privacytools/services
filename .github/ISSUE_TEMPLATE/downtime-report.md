@@ -1,5 +1,5 @@
 ---
-name: Downtime report
+name: Report service downtime
 about: Let us know if a service is unavailable
 title: ''
 labels: downtime
@@ -14,8 +14,8 @@ What service are you trying to access?
 A clear and concise description of what the issue is. Please include any error messages you see in your browser/app/etc.
 
 **Demographics**
-Your country: 
-Your ISP: 
+Your country:
+Your ISP:
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.

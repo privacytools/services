@@ -1,6 +1,6 @@
 ---
-name: Service request
-about: Suggest an service we could run
+name: Suggest a new service
+about: Tell us another service we could run
 title: ''
 labels: enhancement
 assignees: JonahAragon
