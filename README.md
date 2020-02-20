@@ -16,7 +16,7 @@ Please report issues related to the following services:
  - PrivateBin (`bin.privacytools.io`)
  - Email (`mail.privacytools.io`)
  - Searx (`search.privacytools.io`)
- - Our Tor Relay
+ - Our Tor Relay ([`privacytoolsIOalpha`](https://metrics.torproject.org/rs.html#details/8662528527584136FEE7135CAB7DF5A6D7D5FF30))
  - Our IPFS Gateway (`ipfs.privacytools.io`)
  - DNS (DNS resolution issues for `privacytools.io` domains)
 
